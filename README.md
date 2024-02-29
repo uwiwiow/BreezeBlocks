@@ -4,6 +4,13 @@
 - A / D
   
 Or press `m` to activate mouse mode
+## Install
+```
+git clone https://github.com/uwiwiow/BreezeBlocks.git
+git submodule init
+git submodule update
+```
+
 ## Build
 Linux
 ```sh
